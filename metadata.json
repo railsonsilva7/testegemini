@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Adventure Weaver",
+  "description": "A text-based adventure game powered by Google Gemini. Players choose a theme and make choices to progress an AI-generated story, complete with AI-generated images for each scene.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
